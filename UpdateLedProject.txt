@@ -1,0 +1,4 @@
+LedProject V1.0.0
+编辑于2016-11-10-----张卫清
+1、创建于 mtbot.cc、Github空间的自更新需求；
+2、程序添加自更新功能，Compare 本地版本与 远程Http://mtbot.cc/LedProject.exe 版本信息，若本地本地程序版本较早，则提示更新。
